@@ -25,6 +25,7 @@ create client side boiler plate
     ? Setup e2e tests with Nightwatch? No
 
     $ sudo npm install
+    $ sudo npm install vue-resource --save
 
 step 4:
 create server side boiler plate
@@ -35,6 +36,15 @@ create server side boiler plate
     $ npm install nodemon --save
   - install express
     $ npm install express --save
+  - install mongoose
+    $ npm install mongoose --save
+  - install body-parser
+    $ npm install body-parser --save  
+
+step 5:
+create restAPI
+  - (could do cleint first but i think this is easier)
+
 
 
 step _:
